@@ -61,8 +61,7 @@
 A **full-stack web platform** designed to simplify and digitalize bus transportation for students.
 
 * **Key Features:** Online seat booking with QR verification, secure payment gateway (Razorpay / Paytm) integration, real-time bus tracking, and an Admin dashboard.
-* 🔗 **Live Demo:** [https://thesmartbus.netlify.app](https://thesmartbus.netlify.app)
-* 📂 **Repository:** [Smart Bus Booking System](https://github.com/vaibhavverma389/smart-bus-booking)
+
 
 ---
 
