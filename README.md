@@ -40,10 +40,6 @@ I'm a passionate developer focused on building **smart, efficient, and impactful
 - Secure payment gateway integration (Razorpay / Paytm)  
 - Real-time bus tracking and route management  
 - Admin dashboard for easy monitoring  
-
-🔗 **Live Demo:** [https://thesmartbus.netlify.app](https://thesmartbus.netlify.app)  
-📂 **Repository:** [Smart Bus Booking System](https://github.com/vaibhavverma389/smart-bus-booking)
-
 ---
 
 ### 📊 GitHub Stats
@@ -59,7 +55,6 @@ I'm a passionate developer focused on building **smart, efficient, and impactful
 | 💼 **LinkedIn** | [linkedin.com/in/vaibhavverma389](https://linkedin.com/in/vaibhavverma389) |
 | 🧩 **LeetCode** | [leetcode.com/vaibhavverma389](https://leetcode.com/vaibhavverma389) |
 | ⚙️ **Codeforces** | [codeforces.com/profile/vaibhavverma389](https://codeforces.com/profile/vaibhavverma389) |
-| 🌍 **Portfolio** | [https://thesmartbus.me](https://thesmartbus.me) |
 
 ---
 
