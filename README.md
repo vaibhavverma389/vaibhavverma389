@@ -4,7 +4,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavverma389&" alt="vaibhavverma389" /></p>
 -->
 
-<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
+
 
 <h1 align="center">Hey Everyone 👋, I'm Vaibhav Verma</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From India 🇮🇳</h3>
@@ -85,9 +85,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavverma389&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-
-![Snake animation](https://github.com/vaibhavverma389/vaibhavverma389/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
