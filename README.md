@@ -58,11 +58,3 @@ I'm a passionate developer focused on building **smart, efficient, and impactful
 
 ---
 
-### ✨ Fun Fact
-> “The best way to predict the future is to create it.”  
-> — Peter Drucker
-
----
-
-⭐️ *If you like my work, don’t forget to star my repositories and follow me for more projects!*
-
