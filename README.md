@@ -1,99 +1,89 @@
-<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px" alt="Horizontal Divider">
-
-<h1 align="center">👋 Hey everyone, I'm Vaibhav Verma</h1>
-<h3 align="center">Full-Stack Developer | Tech Innovator | Problem Solver From India 🇮🇳</h3>
+<!-- 👇 Uncomment this section if you want the compact GitHub stats at the top
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavverma389&show_icons=true&locale=en&layout=compact" alt="vaibhavverma389" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&show_icons=true&locale=en" alt="vaibhavverma389" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavverma389&" alt="vaibhavverma389" /></p>
+-->
+\
+<h1 align="center">Hey Everyone 👋, I'm Vaibhav Verma</h1>
+<h3 align="center">A Passionate Full-Stack Web Developer From India 🇮🇳</h3>
 
 ---
 
-### 🧠 About Me
-
+# 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-* 👨‍💻 I build **smart, efficient, and impactful software solutions**—from full-stack web platforms to automation systems.
-* 💡 Creator of the **Smart Bus Booking System** – a web platform for easy student transport booking and management.
-* 🌱 Currently leveling up my skills in **DevOps (Docker, AWS) and System Design**.
-* 🤝 Open to collaborations in **AI, EdTech, or Web Automation** projects.
-* 📫 Reach me at: **[vaibhavverma6393@gmail.com](mailto:vaibhavverma6393@gmail.com)**
-
-<br>
-
-## 💻 Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` `Python` `JavaScript` `C++` |
-| **Frontend** | `React.js` `HTML` `CSS` `Bootstrap` |
-| **Backend** | `Node.js` `Express.js` `Firebase` `MySQL` `MongoDB` |
-| **Tools/Platforms** | `Git` `GitHub` `VS Code` `Postman` `Netlify` `Render` |
-
-<br>
+🔭 Currently building **Smart Bus Booking System** — a modern transport management platform.  
+🌱 Learning **Next.js**, **Node.js**, and **Cloud Deployment (AWS, Docker)**.  
+💬 Ask me about **JavaScript, React, and API integration**.  
+👨‍💻 Check out my projects at [github.com/vaibhavverma389](https://github.com/vaibhavverma389)  
+🧩 Solving challenges on [LeetCode](https://leetcode.com/vaibhavverma389) & [Codeforces](https://codeforces.com/profile/vaibhavverma389).  
+📫 Reach me at **[vaibhavverma6393@gmail.com](mailto:vaibhavverma6393@gmail.com)**  
+📄 Learn more about me on [LinkedIn](https://linkedin.com/in/vaibhavverma389)
 
 ---
 
-## 🛠️ My Favorite Tools (Badges)
-
-*I use these technologies most often to bring ideas to life.*
+## 🌐 Socials:
 
 <p align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <br>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <br>
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <br>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker (Learning)"/>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS (Learning)"/>
+<a href="https://linkedin.com/in/vaibhavverma389" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/vaibhavverma389" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/vaibhavverma389" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Codeforces_logo.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/vaibhavverma389" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-### 🚍 Featured Project – Smart Bus Booking System
+# 💻 Tech Stack:
 
-A **full-stack web platform** designed to simplify and digitalize bus transportation for students.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-* **Key Features:** Online seat booking with QR verification, secure payment gateway (Razorpay / Paytm) integration, real-time bus tracking, and an Admin dashboard.
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavverma389&theme=react&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverma389&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vaibhavverma389&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vaibhavverma389&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/vaibhavverma389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhavverma389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/vaibhavverma389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vaibhavverma389" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://thesmartbus.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Portfolio" height="30" width="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Vaibhav's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverma389&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Fun Fact
-
-> “The best way to predict the future is to create it.” 
-> — Peter Drucker
-
----
-
-⭐️ *If you like my work, don’t forget to star my repositories and follow me for more projects!*
-<br>
 [![](https://visitcount.itsvg.in/api?id=vaibhavverma389&icon=0&color=0)](https://visitcount.itsvg.in)
