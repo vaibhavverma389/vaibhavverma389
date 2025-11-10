@@ -3,7 +3,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&show_icons=true&locale=en" alt="vaibhavverma389" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavverma389&" alt="vaibhavverma389" /></p>
 -->
-\
 <h1 align="center">Hey Everyone 👋, I'm Vaibhav Verma</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From India 🇮🇳</h3>
 
