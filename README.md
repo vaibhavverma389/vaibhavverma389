@@ -1,171 +1,63 @@
-# 🕶️ Vaibhav Verma
-### `Full-Stack Developer • MERN • API Engineer • Code Breaker`
-
-```
-> Accessing profile...
-> Identity: Vaibhav Verma
-> Status: ONLINE
-> Clearance Level: Developer-Class A
-> Location: INDIA_404
-```
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/vaibhavverma389" target="_blank">Vaibhav Verma</a></h1>
+<h3 align="center">🚀 Full-Stack Web Developer | Tech Enthusiast | India 🇮🇳</h3>
 
 ---
 
-## 🧩 System.Log(About_Me)
-```
-$ whoami
-→ Full-Stack Developer specializing in MERN stack
-→ Love building high-performance systems
-→ Obsessed with clean architecture & efficient APIs
-→ Currently developing: Smart Bus Booking System
-```
+## 💫 About Me
 
-```
-$ learning --now
-→ Next.js // Node.js // Docker // AWS
-```
 
-```
-$ contact --open
-→ Email: vaibhavverma6393@gmail.com
-→ LinkedIn: https://linkedin.com/in/vaibhavverma389
-→ GitHub: https://github.com/vaibhavverma389
-```
+- 🔭 Currently building **Smart Bus Booking System** — a transport management platform.  
+- 🌱 Learning **Next.js**, **Node.js**, and **Cloud Deployment (AWS & Docker)**.  
+- 💬 Ask me about **JavaScript, React, and REST APIs**.  
+- 👨‍💻 Check out my work: [github.com/vaibhavverma389](https://github.com/vaibhavverma389)  
+- 🧩 Solving problems on [LeetCode](https://leetcode.com/vaibhavverma389) & [Codeforces](https://codeforces.com/profile/vaibhavverma389)  
+- 📫 Reach me: **[vaibhavverma6393@gmail.com](mailto:vaibhavverma6393@gmail.com)**  
+- 🔗 Connect on [LinkedIn](https://linkedin.com/in/vaibhavverma389)
 
 ---
 
-## 🛠️ Tech Stack (Active Modules)
-```
-Frontend   :: React | Next.js | Tailwind | TypeScript
-Backend    :: Node.js | Express | REST APIs
-Database   :: MongoDB | MySQL
-Ops        :: Git | Docker | Postman | Firebase | Vercel
-Langs      :: Java | Python | JavaScript
-```
+## 🌐 Social Profiles
+<p align="center">
+<a href="https://linkedin.com/in/vaibhavverma389"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+<a href="https://github.com/vaibhavverma389"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+<a href="https://leetcode.com/vaibhavverma389"><img src="https://skillicons.dev/icons?i=leetcode" width="45" /></a>
+<a href="https://codeforces.com/profile/vaibhavverma389"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Codeforces_logo.svg" width="45" /></a>
+</p>
 
 ---
 
-# 🧨 ULTRA HACKER README — Vaibhav Verma
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,redux,tailwind,vercel,netlify,firebase,postman,git" />
+</p>
 
-```
-██╗   ██╗ █████╗ ██╗██████╗  █████╗ ██╗   ██╗██████╗ 
-██║   ██║██╔══██╗██║██╔══██╗██╔══██╗██║   ██║██╔══██╗
-██║   ██║███████║██║██║  ██║███████║██║   ██║██████╔╝
-╚██╗ ██╔╝██╔══██║██║██║  ██║██╔══██║██║   ██║██╔══██╗
- ╚████╔╝ ██║  ██║██║██████╔╝██║  ██║╚██████╔╝██║  ██║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
+---
 
+## 📊 GitHub Analytics
 <div align="center">
-
-## **`FULL-STACK WEB DEVELOPER | MERN | NEXT.JS | API ENGINEER`**
-### *Profile: ACCESS GRANTED ✓*
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&show_icons=true&theme=react&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavverma389&theme=react&hide_border=false" height="165" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverma389&layout=compact&theme=react" height="150" />
 </div>
 
 ---
 
-# 🌱 `INIT :: ABOUT_ME`
-```
-> booting developer_profile...
-> status: ACTIVE
-
-user.name        = "Vaibhav Verma"
-user.role        = "Full-Stack Developer"
-user.location    = "IN_404"
-user.focus       = ["Next.js", "Node.js", "Cloud", "Docker"]
-user.project     = "Smart Bus Booking System"
-```
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavverma389&theme=onedark&no-frame=false&margin-w=10" />
+</p>
 
 ---
 
-# 🔧 `INIT :: TECH_STACK`
-```
-> loading modules...
-
-[ FRONTEND ]
-  - React
-  - Next.js
-  - Tailwind
-  - TypeScript
-
-[ BACKEND ]
-  - Node.js
-  - Express
-  - REST APIs
-
-[ DATABASE ]
-  - MongoDB
-  - MySQL
-
-[ DEVOPS ]
-  - Git
-  - Postman
-  - Docker (training)
-  - Firebase | Vercel
-
-[ LANGUAGES ]
-  - Java
-  - Python
-  - JavaScript
-```
+## 🔝 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vaibhavverma389&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-# 📟 `SYSTEM STATUS :: METRICS`
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&show_icons=true&theme=matrix&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com/?user=vaibhavverma389&theme=matrix&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 `ACTIVE_PROCESSES()`
-```
-[✓] Building production-grade backend APIs
-[✓] Designing clean & fast UIs
-[✓] Practicing DSA on LeetCode + Codeforces
-[✓] Deploying apps on Vercel / Firebase
-[✓] Reverse engineering systems for fun
-```
-
----
-
-# 🏆 `ACHIEVEMENTS::UNLOCKED`
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavverma389&theme=matrix&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🛰️ `CONTRIBUTION_DASHBOARD()`
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=vaibhavverma389&limit=5&theme=matrix&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-# 🛰 `MATRIX_STREAM::VISITORS`
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=vaibhavverma389&icon=0&color=6"/>
-
-</div>
-
----
-
-# 🛑 `FINAL_MESSAGE()`
-```
-> Incoming Transmission:
-> "Your star has been logged in the system."
-> Motivation +500%
-> Preparing next deployment...
-```
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=vaibhavverma389&icon=0&color=0" alt="Visitor Count" />
+</p> redisin this page with diff out line
