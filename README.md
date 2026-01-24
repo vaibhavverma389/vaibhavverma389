@@ -12,7 +12,7 @@
 - 💬 Ask me about **JavaScript, React, and REST APIs**.  
 - 👨‍💻 Check out my work: [github.com/vaibhavverma389](https://github.com/vaibhavverma389)  
 - 🧩 Solving problems on [LeetCode](https://leetcode.com/vaibhavverma389) & [Codeforces](https://codeforces.com/profile/vaibhavverma389)  
-- 📫 Reach me: **[vaibhavverma6393@gmail.com](mailto:vaibhav.verma.sde@gmail.com)**  
+- 📫 Reach me: **[vaibhav.verma.sde@gmail.com](mailto:vaibhav.verma.sde@gmail.com)**  
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/vaibhavverma389)
 
 ---
