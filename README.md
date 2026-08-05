@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=94D2BD&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%92%BB;Building+Scalable+REST+APIs+%E2%9A%A1;290%2B+DSA+Problems+Solved+%F0%9F%A7%A0;AWS+%7C+Node.js+%7C+MongoDB+%7C+React.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=94D2BD&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%92%BB;Building+Scalable+REST+APIs+%E2%9A%A1;320%2B+DSA+Problems+Solved+%F0%9F%A7%A0;AWS+%7C+Node.js+%7C+MongoDB+%7C+React.js" />
 
 </div>
 
@@ -34,7 +34,7 @@ I'm a **Backend-Focused Full Stack Developer** and pre-final year B.Tech CSE stu
 - 💼 **Full Stack Intern** @ GLA University — shipped the Smart Bus Booking System
 - ⚙️ Specialized in **Node.js, Express.js, MongoDB, REST APIs, JWT & RBAC**
 - ☁️ Hands-on with **AWS (EC2, S3, IAM)** via practical cloud labs
-- 🧠 Solved **290+ DSA problems** on LeetCode
+- 🧠 Solved **320+ DSA problems** on LeetCode
 - 🚀 All major projects **deployed live to production** on Vercel
 - 📍 Based in Ayodhya, India
 
@@ -154,7 +154,7 @@ I'm a **Backend-Focused Full Stack Developer** and pre-final year B.Tech CSE stu
 
 | 🏅 | Achievement |
 |---|---|
-| 💡 | Solved **290+ DSA problems** on LeetCode — strong algorithmic foundations |
+| 💡 | Solved **320+ DSA problems** on LeetCode — strong algorithmic foundations |
 | 🚀 | **3 full-stack projects** deployed live to production on Vercel |
 | ☁️ | Hands-on **AWS cloud exposure** (EC2, S3, IAM) via practical labs |
 | 🎤 | Attended GDG session with **Anshaj Sharma (SDE II, Amazon)** on industry engineering practices |
