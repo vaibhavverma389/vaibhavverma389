@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=94D2BD&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+REST+APIs+%E2%9A%A1;MERN+Stack+%7C+Node.js+%7C+MongoDB+%7C+React.js;JWT+%2B+RBAC+Authentication+%F0%9F%94%90;Real-time+apps+deployed+live+%F0%9F%9A%80;320%2B+DSA+problems+solved+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=94D2BD&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+REST+APIs+%E2%9A%A1;MERN+Stack+%7C+Node.js+%7C+MongoDB+%7C+React.js;JWT+%2B+RBAC+Authentication+%F0%9F%94%90;Real-time+apps+deployed+live+%F0%9F%9A%80;350%2B+DSA+problems+solved+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
@@ -28,15 +28,16 @@ const vaibhav = {
   education: "B.Tech CSE @ GLA University, Mathura (Expected Jun 2027)",
   experience: "Full Stack Developer Intern @ GLA University",
   location: "Ayodhya, India 📍",
-  strengths: ["REST API Design", "JWT & RBAC Auth", "MongoDB Indexing", "Real-time Systems"],
+  strengths: ["REST API Design", "JWT & RBAC Auth", "MongoDB Indexing", "Payment Integration", "Real-time Systems"],
   cloud: ["AWS (EC2, S3, IAM)", "Vercel"],
-  dsa: "320+ problems solved on LeetCode",
-  currentlyLookingFor: "Software Developer / Backend / Full Stack roles 🎯",
+  dsa: "350+ problems solved on LeetCode",
+  currentlyLookingFor: "SDE Internship / Backend / Full Stack roles 🎯",
 };
 ```
 
 - 🚀 I ship **real, deployed products**: all 3 of my major projects are **live in production**
 - ⚙️ I care about **clean APIs, query performance and secure authentication**
+- 💳 I've built **secure payment flows** (Razorpay + HMAC-SHA256 verification) and **AI-assisted features** (Gemini API)
 - 🧠 I practice DSA regularly to keep my problem-solving sharp
 - 📫 Open to internships, collaboration and full-time opportunities. Reach me at **vaibhav.verma.sde@gmail.com**
 
@@ -49,14 +50,17 @@ const vaibhav = {
 | | |
 |:--|:--|
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=js,java,py,html,css" /> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,postman" /> ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black) |
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,postman" /> ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,materialui,html,css" /> |
 | **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
 | **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,vercel,git,github" /> |
+| **🧪 Testing & Tools** | <img src="https://skillicons.dev/icons?i=selenium,vscode,postman" /> ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) |
 
 </div>
 
 **🧩 Core CS:** `Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `API Design` · `RBAC`
+
+**🤖 AI & Practices:** `Prompt Engineering` · `Generative AI` · `Agentic AI basics` · `Agile`
 
 ---
 
@@ -69,9 +73,9 @@ const vaibhav = {
 ### 🌾 Digital Mandi
 **Smart Agriculture Marketplace**
 
-Farmers and traders trade crops directly with a **real-time bidding engine** for transparent price discovery.
+Verified farmers and traders trade crops directly through a **real-time bidding engine**, with **Gemini-powered** crop grading and price forecasting.
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+`React 19` `Vite` `Node.js` `Express 5` `MongoDB` `Python` `Gemini API`
 
 ⚡ API response time reduced by **~25%** with indexing and query restructuring
 
@@ -84,11 +88,11 @@ Farmers and traders trade crops directly with a **real-time bidding engine** for
 ### 🚌 Smart Bus Booking
 **Real-Time Booking Platform**
 
-Production full-stack app for routes, seat booking and user management, shipped as my internship capstone.
+Production MERN app with **Razorpay payments** and a **double-booking-proof seat engine**, shipped as my internship capstone.
 
-`React.js` `Node.js` `MongoDB` `JavaScript`
+`React 18` `Node.js` `Express.js` `MongoDB Atlas` `Material-UI` `JWT` `Razorpay`
 
-⚡ API latency reduced by **~30%** with optimized queries and validation
+⚡ API latency reduced by **~30%** with optimized queries
 
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.thesmartbu.me)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhavverma389/bus_bookings)
@@ -118,21 +122,23 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 <br/>
 
 **🌾 [Digital Mandi](https://digital-mandi-vaibhav.vercel.app)** · *Mar – Apr 2026*
-- Designed and deployed a full-stack marketplace on Vercel connecting farmers and traders for direct crop trading
-- Built scalable REST APIs for product listing, bidding and user management
-- Implemented a real-time bidding engine handling concurrent user interactions
-- Optimized MongoDB queries via indexing and restructuring (**~25%** faster API responses)
+- Built and deployed a full-stack agritech marketplace on Vercel that lets verified farmers trade crops directly with commercial buyers, removing intermediaries
+- Integrated the **Google Gemini API** with deterministic fallback heuristics (Python micro-process) for crop quality grading (A/B/C) and price forecasting, keeping the service available during API or network failures
+- Implemented **JWT stateless authentication and RBAC** (Farmer, Trader, Admin) with privacy-preserving data masking that hides contact details until a deal is accepted
+- Engineered an end-to-end **bidding pipeline** with automatic state transitions (sold/rejected) across competing bids; handled image uploads with Multer in-memory buffers and ImageKit CDN
+- Reduced API response time by **~25%** through MongoDB indexing and query restructuring
 
 **🚌 [Smart Bus Booking System](https://www.thesmartbu.me)** · *Jul – Nov 2025*
-- Built and deployed a full-stack app with real-time booking workflows
-- Designed REST APIs with CRUD operations for users, bookings and routes
-- Added secure form validation and optimized queries (**~30%** lower API latency)
-- Worked in a team across requirement analysis, UI design and testing
+- Developed and deployed a MERN bus reservation platform with **Razorpay payments** and server-side **HMAC-SHA256 signature verification** for fraud-resistant transactions
+- Built a real-time seat selection engine using **atomic MongoDB updates** (`$push`, `$inc`, `$pull`) that prevents double-booking and restores seats on cancellation
+- Implemented JWT and Bcrypt authentication with RBAC middleware securing admin endpoints for fleet scheduling, booking oversight and user role management
+- Built a responsive SPA with React Router v6, Material-UI and Axios interceptors for automatic bearer-token attachment; deployed on Vercel and MongoDB Atlas
+- Reduced API latency by **~30%** through database query optimization
 
 **🎓 [Secure Student Portal](https://studifyo.vercel.app)** · *Jan – Mar 2026*
-- Implemented multi-role authentication and authorization (RBAC) using Passport.js
-- Built a centralized student dashboard with activity tracking
-- Designed a real-time analytics module for admin monitoring
+- Implemented secure multi-role authentication (RBAC) with Passport.js and a centralized student dashboard with activity tracking
+- Improved query performance with MongoDB indexing and built a real-time analytics module for admin monitoring
+- Optimized routing architecture and added logging for production observability
 
 </details>
 
@@ -145,22 +151,6 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 - Designed and integrated backend APIs for data management and client-server communication
 - Collaborated on requirement analysis, UI design and QA testing, and shipped the **Smart Bus Booking System** as the capstone project
 
----
-
-## 📊 GitHub & LeetCode Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverma389&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=vaibhavverma389&theme=tokyonight&hide_border=true" width="60%" />
-
-<img src="https://leetcard.jacoblin.cool/vaibhavverma389?theme=dark&font=Fira%20Code&ext=heatmap" width="75%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavverma389&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
 ---
 
 ## 📜 Certifications
@@ -179,14 +169,44 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 | 🧪 Selenium Interactive Course [101-BASIC] | Cognizant Skillspring | Jul 24, 2026 |
 
 </div>
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Year |
+|:--|:--|:--|
+| B.Tech in Computer Science | GLA University, Mathura | Expected Jun 2027 |
+| Diploma in Electrical Engineering | Govt. Polytechnic Ayodhya | Sep 2023 |
+| Intermediate (Class XII) | Diamond Inter College, Ayodhya | Jun 2020 |
+| High School (Class X) | Diamond Inter College, Ayodhya | Apr 2018 |
+
+---
+
+## 📊 GitHub & LeetCode Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavverma389&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverma389&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=vaibhavverma389&theme=tokyonight&hide_border=true" width="60%" />
+
+<img src="https://leetcard.jacoblin.cool/vaibhavverma389?theme=dark&font=Fira%20Code&ext=heatmap" width="75%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavverma389&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
 ---
 
 ## 🏆 Achievements
 
 | | |
 |:--:|:--|
-| 💡 | Solved **320+ DSA problems** on LeetCode |
+| 💡 | Solved **350+ DSA problems** on LeetCode |
 | 🚀 | **3 full-stack MERN projects** deployed live on Vercel |
+| 📜 | Completed **8 Cognizant Skillspring certifications** across Generative AI, Agentic AI, React, Agile and Selenium testing |
 | ☁️ | Hands-on **AWS** exposure (EC2, S3, IAM) through practical labs |
 | 🎤 | Attended a GDG session with **Anshaj Sharma (SDE II, Amazon)** on industry engineering practices |
 
