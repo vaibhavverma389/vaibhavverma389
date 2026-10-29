@@ -161,7 +161,24 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavverma389&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
+---
 
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issued By | Date |
+|:--|:--|:--|
+| 🤖 Introduction to Agentic AI | Cognizant Skillspring | Jul 7, 2026 |
+| 📋 ITPM – Introduction to Agile [101-Basics] | Cognizant Skillspring | Jul 8, 2026 |
+| ✨ Fundamentals of Generative AI | Cognizant Skillspring | Jul 9, 2026 |
+| 🧑‍✈️ GitHub Copilot Fundamentals Virtual Training | Cognizant Skillspring | Jul 10, 2026 |
+| 🧠 Foundations of Modern AI | Cognizant Skillspring | Jul 13, 2026 |
+| ⚛️ Frontend React Engineer [101-BASIC] | Cognizant Skillspring | Jul 22, 2026 |
+| 💬 Prompt Engineering Foundation | Cognizant Skillspring | Jul 23, 2026 |
+| 🧪 Selenium Interactive Course [101-BASIC] | Cognizant Skillspring | Jul 24, 2026 |
+
+</div>
 ---
 
 ## 🏆 Achievements
