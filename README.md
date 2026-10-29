@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=94D2BD&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+REST+APIs+%E2%9A%A1;MERN+Stack+%7C+Node.js+%7C+MongoDB+%7C+React.js;JWT+%2B+RBAC+Authentication+%F0%9F%94%90;Real-time+apps+deployed+live+%F0%9F%9A%80;350%2B+DSA+problems+solved+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=94D2BD&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+REST+APIs+%E2%9A%A1;MERN+Stack+%7C+Node.js+%7C+MongoDB+%7C+React.js;JWT+%2B+RBAC+Authentication+%F0%9F%94%90;6%2B+projects+shipped+%F0%9F%9A%80;355%2B+DSA+problems+solved+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
@@ -29,15 +29,16 @@ const vaibhav = {
   experience: "Full Stack Developer Intern @ GLA University",
   location: "Ayodhya, India 📍",
   strengths: ["REST API Design", "JWT & RBAC Auth", "MongoDB Indexing", "Payment Integration", "Real-time Systems"],
-  cloud: ["AWS (EC2, S3, IAM)", "Vercel"],
-  dsa: "350+ problems solved on LeetCode",
-  currentlyLookingFor: "SDE Internship / Backend / Full Stack roles 🎯",
+  cloud: ["AWS (EC2, S3, IAM)", "Vercel", "Render"],
+  dsa: "355+ problems solved on LeetCode",
+  availability: "Internships now · Full-time from Jun 2027 🎯",
 };
 ```
 
-- 🚀 I ship **real, deployed products**: all 3 of my major projects are **live in production**
+- 🚀 I ship **real, deployed products**: **6+ projects** built, with my major ones **live in production**
 - ⚙️ I care about **clean APIs, query performance and secure authentication**
 - 💳 I've built **secure payment flows** (Razorpay + HMAC-SHA256 verification) and **AI-assisted features** (Gemini API)
+- 🤖 I use **AI-assisted workflows** (Copilot, Claude, Gemini, Codex) for velocity, while owning architecture, security and edge cases myself
 - 🧠 I practice DSA regularly to keep my problem-solving sharp
 - 📫 Open to internships, collaboration and full-time opportunities. Reach me at **vaibhav.verma.sde@gmail.com**
 
@@ -50,17 +51,17 @@ const vaibhav = {
 | | |
 |:--|:--|
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=js,java,py,html,css" /> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,postman" /> ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,materialui,html,css" /> |
-| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postman" /> ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui,html,css" /> |
+| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> |
 | **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,vercel,git,github" /> |
 | **🧪 Testing & Tools** | <img src="https://skillicons.dev/icons?i=selenium,vscode,postman" /> ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) |
 
 </div>
 
-**🧩 Core CS:** `Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `API Design` · `RBAC`
+**🧩 Core CS:** `Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `API Design` · `RBAC` · `System Design Basics`
 
-**🤖 AI & Practices:** `Prompt Engineering` · `Generative AI` · `Agentic AI basics` · `Agile`
+**🤖 AI & Practices:** `Prompt Engineering` · `Generative AI` · `Agentic AI basics` · `Agile` · `ChatGPT` · `Gemini` · `Copilot` · `Claude` · `Codex`
 
 ---
 
@@ -88,7 +89,7 @@ Verified farmers and traders trade crops directly through a **real-time bidding 
 ### 🚌 Smart Bus Booking
 **Real-Time Booking Platform**
 
-Production MERN app with **Razorpay payments** and a **double-booking-proof seat engine**, shipped as my internship capstone.
+Production MERN app with **Razorpay payments**, 10+ REST APIs and a **double-booking-proof seat engine**, shipped as my internship capstone.
 
 `React 18` `Node.js` `Express.js` `MongoDB Atlas` `Material-UI` `JWT` `Razorpay`
 
@@ -103,7 +104,7 @@ Production MERN app with **Razorpay payments** and a **double-booking-proof seat
 ### 🎓 Secure Student Portal
 **Admin Analytics System**
 
-Multi-role authentication (**RBAC**) with a student dashboard, activity tracking and a **real-time analytics module** for admins.
+Multi-role authentication (**RBAC**) with a dashboard for academic resources, notifications and documents, plus a **real-time analytics module** for admins.
 
 `Node.js` `Express.js` `MongoDB` `Passport.js` `EJS`
 
@@ -111,6 +112,38 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://studifyo.vercel.app)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhavverma389/nptel-assignment-help)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🔗 Link Shortener
+**Analytics Dashboard**
+
+Full-stack URL shortener with a glassmorphic UI, **custom aliases**, **real-time click tracking** and **dynamic SVG QR codes** with a downloader.
+
+`React` `Node.js` `Express.js` `MongoDB` `Vite`
+
+</td>
+<td width="33%" valign="top">
+
+### 🧑‍🎓 Student Management System
+**CRUD Application**
+
+Dark-themed app with full **CRUD**, search, department and marks filters, and unique roll-number and numeric **validation**.
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 E-Commerce Sales Analytics
+**Data Dashboard**
+
+Cleaned a large order dataset with **Pandas** and built a **React + FastAPI** dashboard for revenue, regional, payment and product insights.
+
+`Python` `Pandas` `FastAPI` `React` `Recharts`
 
 </td>
 </tr>
@@ -136,9 +169,20 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 - Reduced API latency by **~30%** through database query optimization
 
 **🎓 [Secure Student Portal](https://studifyo.vercel.app)** · *Jan – Mar 2026*
-- Implemented secure multi-role authentication (RBAC) with Passport.js and a centralized student dashboard with activity tracking
+- Implemented secure multi-role authentication (RBAC) with Passport.js and a centralized dashboard for academic resources, notifications and documents
 - Improved query performance with MongoDB indexing and built a real-time analytics module for admin monitoring
 - Optimized routing architecture and added logging for production observability
+
+**🔗 Dynamic Link Shortener & Analytics Dashboard**
+- Built a secure REST API for link creation with custom aliases/slugs
+- Implemented real-time click tracking, dynamic SVG QR code generation with downloader, and toast notifications
+
+**🧑‍🎓 Student Management System**
+- Full CRUD for student records with search, department and minimum-marks filters, and form validation
+
+**📈 E-Commerce Sales Analytics Dashboard**
+- Cleaned and analyzed a large transaction dataset with Python/Pandas into reusable KPIs
+- Built an interactive React + FastAPI dashboard: revenue trends, customer demographics, regional performance, payment analysis, order status and product insights
 
 </details>
 
@@ -176,10 +220,9 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 
 | Qualification | Institution | Year |
 |:--|:--|:--|
-| B.Tech in Computer Science | GLA University, Mathura | Expected Jun 2027 |
-| Diploma in Electrical Engineering | Govt. Polytechnic Ayodhya | Sep 2023 |
-| Intermediate (Class XII) | Diamond Inter College, Ayodhya | Jun 2020 |
-| High School (Class X) | Diamond Inter College, Ayodhya | Apr 2018 |
+| B.Tech in Computer Science | GLA University, Mathura | 2023 – Jun 2027 |
+| Diploma in Electrical Engineering | Govt. Polytechnic Ayodhya | 2020 – Sep 2023 |
+| Intermediate & High School | Diamond Inter College, Ayodhya | 2018 – 2020 |
 
 ---
 
@@ -204,8 +247,8 @@ Multi-role authentication (**RBAC**) with a student dashboard, activity tracking
 
 | | |
 |:--:|:--|
-| 💡 | Solved **350+ DSA problems** on LeetCode |
-| 🚀 | **3 full-stack MERN projects** deployed live on Vercel |
+| 💡 | Solved **355+ DSA problems** on LeetCode (arrays, trees, graphs, DP, greedy and more) |
+| 🚀 | **6+ projects** built, including 3 full-stack MERN apps deployed live |
 | 📜 | Completed **8 Cognizant Skillspring certifications** across Generative AI, Agentic AI, React, Agile and Selenium testing |
 | ☁️ | Hands-on **AWS** exposure (EC2, S3, IAM) through practical labs |
 | 🎤 | Attended a GDG session with **Anshaj Sharma (SDE II, Amazon)** on industry engineering practices |
